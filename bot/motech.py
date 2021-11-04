@@ -1,5 +1,5 @@
 # Update
-MT_BOT_UPDATES = "@miafilter_bot"
+MT_BOT_UPDATES = "https://t.me/bettermalayalam"
 # Your Main Channel
-BOT_UPDATES = "@miafilter_bot"
+BOT_UPDATES = "https://t.me/bettermalayalam"
 
