@@ -87,7 +87,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="@miafilter_bot"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/bettermalayalam"
                                 )
                         ]
                     ]
@@ -106,7 +106,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="@miafilter_bot"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/bettermalayalam"
                                 )
                         ]
                     ]
@@ -167,7 +167,7 @@ async def about(bot, update):
         InlineKeyboardButton('👤 click here👤', url='https://t.me/TGMoviesBotin'),
         InlineKeyboardButton('join👤', url='https://t.me/mallumoviesboti')
     ],[
-        InlineKeyboardButton('👤 miabot 👤', url='@miafilter_bot')
+        InlineKeyboardButton('👤 miabot 👤', url='https://t.me/bettermalayalam')
     ],[
         InlineKeyboardButton('🏠 Home', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
