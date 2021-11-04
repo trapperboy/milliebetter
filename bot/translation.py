@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a millia bot....😜</b>
+<b>I am a millie bot....😜</b>
 
 <b>Make me an admin for your group and channel then connect me....🎉</b>
 
