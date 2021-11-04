@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤 group', url='https://t.me/joinchat/6seI81n7T3wyODZl'),
-            InlineKeyboardButton('join 👤', url='https://t.me/moviesplusin')
+            InlineKeyboardButton('👤 backup group', url='https://t.me/joinchat/6seI81n7T3wyODZl'),
+            InlineKeyboardButton('tamil movies 👤', url='https://t.me/moviesplusin')
         ],[
-            InlineKeyboardButton('👤 trapperboy 👤', url='https://t.me/bettermalayalam')
+            InlineKeyboardButton('👤 main channel 👤', url='https://t.me/bettermalayalam')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
