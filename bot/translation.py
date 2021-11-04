@@ -53,11 +53,11 @@ class Translation(object):
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://github.com/trapperboy/milliebetter">👤 Trapperboy</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="@miafilter_bot">👤miabot</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/trapperboy/milliebetter">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/TGMoviesBotin">💥Click Me</a></b>
 """
