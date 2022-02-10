@@ -53,7 +53,7 @@ class Translation(object):
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://github.com/trapperboy/milliebetter">👤 Trapperboy</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/bettermalayalam">👤miabot</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/bettermalayalamn">👤miabot</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
