@@ -87,7 +87,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/bettermalayalam"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/bettermalayalamn"
                                 )
                         ]
                     ]
@@ -106,7 +106,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/bettermalayalam"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/bettermalayalamn"
                                 )
                         ]
                     ]
@@ -125,7 +125,7 @@ async def start(bot, update):
         InlineKeyboardButton('🗣️Group', url=f'{MT_GROUP}'),
         InlineKeyboardButton('Channel🔊', url=f'{MT_CHANNEL}')
     ],[
-        InlineKeyboardButton('🖥️ main channel 🖥️', url='https://t.me/bettermalayalam')
+        InlineKeyboardButton('🖥️ main channel 🖥️', url='https://t.me/bettermalayalamn')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -167,7 +167,7 @@ async def about(bot, update):
         InlineKeyboardButton('👤 click here👤', url='https://t.me/TGMoviesBotin'),
         InlineKeyboardButton('join👤', url='https://t.me/mallumoviesboti')
     ],[
-        InlineKeyboardButton('👤 miabot 👤', url='https://t.me/bettermalayalam')
+        InlineKeyboardButton('👤 miabot 👤', url='https://t.me/bettermalayalamn')
     ],[
         InlineKeyboardButton('🏠 Home', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
